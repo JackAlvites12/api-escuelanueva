@@ -1,0 +1,17 @@
+pe\com\apiescuelanueva\entity\Apoderado$ApoderadoBuilder.class
+pe\com\apiescuelanueva\entity\Distrito.class
+pe\com\apiescuelanueva\service\ApoderadoImpl.class
+pe\com\apiescuelanueva\entity\Parentesco$ParentescoBuilder.class
+pe\com\apiescuelanueva\EscuelaNuevaApplication.class
+pe\com\apiescuelanueva\service\ApoderadoService.class
+pe\com\apiescuelanueva\entity\Parentesco.class
+pe\com\apiescuelanueva\repository\ApoderadoRepository.class
+pe\com\apiescuelanueva\service\DistritoImpl.class
+pe\com\apiescuelanueva\service\DistritoService.class
+pe\com\apiescuelanueva\repository\ParentescoRepository.class
+pe\com\apiescuelanueva\entity\Apoderado.class
+pe\com\apiescuelanueva\entity\Distrito$DistritoBuilder.class
+pe\com\apiescuelanueva\service\ParentescoImpl.class
+pe\com\apiescuelanueva\controller\DistritoController.class
+pe\com\apiescuelanueva\repository\DistritoRepository.class
+pe\com\apiescuelanueva\service\ParentescoService.class
